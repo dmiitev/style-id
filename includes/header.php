@@ -18,7 +18,7 @@
         <a href="index.php">STYLE.ID</a>
     </div>
     <div class="header-icons">
-        <a href="#" class="icon-btn">🔍</a>
+        <a href="#" class="icon-btn"></a>
         <a href="profile.php" class="icon-btn">👤</a>
     </div>
 </header>
